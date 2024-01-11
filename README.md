@@ -14,3 +14,13 @@ We will be implementing Partially Homomorphic Encryption (PHE) as well as Fully 
 
 # Paillier Cryptosystem
 
+The Paillier cryptosystem is an asymmetric (public-key) cryptosystem that is widely used for secure computations, especially in the context of privacy-preserving protocols and homomorphic encryption. It uses Partially Homomorphic Encryption (PHE). It involves :
+
+1. Key Generation
+2. Encryption
+3. Decryption
+
+# TenSEAL
+
+TenSEAL is an open-source library that provides homomorphic encryption functionalities in Python. It uses Fully Homomorphic Encryption (FHE). It’s designed to work with the PyTorch machine learning framework, allowing users to perform privacy-preserving computations on encrypted data. It’s constructed on Microsoft SEAL, a C++ library enforcing the BFV and CKKS homomorphic encryption schemes. Moreover, it provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++, so TenSEAL is a C++ library with a Python interface.
+
