@@ -9,3 +9,13 @@ fashions which are proof against assaults and making sure the confidentiality, i
 and availability of the statistics and fashions used. The encrypted data goes to the model
 which then gets trained on it. The model predicts the result and then performs decryption.
 In this system, neither the developer nor the model is aware of the authentic data.
+
+# Homomorphic Encryption
+Homomorphic encryption is a encryption technique that allows computation on encrypted
+data without decrypting it allowing data to be kept private and secure even while processing.
+The goal is to enable secure and private computation on sensitive data. There are
+three main types of homomorphic encryption:
+
+1. Partially Homomorphic Encryption (PHE)
+2. Somewhat Homomorphic Encryption (SHE)
+3. Fully Homomorphic Encryption (FHE)
