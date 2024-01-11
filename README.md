@@ -30,3 +30,13 @@ TenSEAL is an open-source library that provides homomorphic encryption functiona
 
 ![M2](https://github.com/tahawar/Secure-Pipeline-For-Machine-Learning-With-Homomorphic-Encryption/blob/acd2a66ca89362123e6ded6ea19595c0e8a3afa3/Methodology%202.png)
 
+FHE offers secure machine learning on encrypted data more efficiently. Furthermore, it provides end-to-end encryption ensuring more privacy. At last, both operations such as addition and multiplication can be applied. Hence, it can make complex computations as well.
+
+# Conclusion
+
+Between both approaches, it was concluded that TenSEAL was more preferable as it could complex computations efficiently and generated more reasonable results.
+
+# Future Work
+
+We’ve created a pipeline with Homomorphic Encryption. In future work, it can be enhanced by incorporating Differential Privacy and Federated Learning to further prioritize data privacy and enable decentralized model training.
+
