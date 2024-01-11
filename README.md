@@ -14,7 +14,7 @@ We will be implementing Partially Homomorphic Encryption (PHE) as well as Fully 
 
 # Paillier Cryptosystem
 
-The Paillier cryptosystem is an asymmetric (public-key) cryptosystem that is widely used for secure computations, especially in the context of privacy-preserving protocols and homomorphic encryption. It uses Partially Homomorphic Encryption (PHE). It involves :
+The Paillier cryptosystem is an asymmetric (public-key) cryptosystem that is widely used for secure computations, especially in the context of privacy-preserving protocols and homomorphic encryption. It uses Partially Homomorphic Encryption (PHE). It involves:
 
 1. Key Generation
 2. Encryption
