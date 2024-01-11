@@ -26,3 +26,5 @@ The Paillier cryptosystem is an asymmetric (public-key) cryptosystem that is wid
 
 TenSEAL is an open-source library that provides homomorphic encryption functionalities in Python. It uses Fully Homomorphic Encryption (FHE). It’s designed to work with the PyTorch machine learning framework, allowing users to perform privacy-preserving computations on encrypted data. It’s constructed on Microsoft SEAL, a C++ library enforcing the BFV and CKKS homomorphic encryption schemes. Moreover, it provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++, so TenSEAL is a C++ library with a Python interface.
 
+![M2](https://github.com/tahawar/Secure-Pipeline-For-Machine-Learning-With-Homomorphic-Encryption/blob/acd2a66ca89362123e6ded6ea19595c0e8a3afa3/Methodology%202.png)
+
