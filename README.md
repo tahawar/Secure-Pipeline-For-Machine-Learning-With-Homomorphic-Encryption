@@ -2,6 +2,12 @@
 
 In this modern world of technology, a vast amount of personal data is required to perform computations. This data can be vulnerable to attack by third-party intruders or malicious actors. To eliminate this problem, we are using Homomorphic Encryption to develop a pipeline for securing individual data. Our main aim is to secure the data instead of the model. Secure Machine Learning includes growing and enforcing device studying fashions which are proof against assaults and making sure the confidentiality, integrity, and availability of the statistics and fashions used. The encrypted data goes to the model which then gets trained on it. The model predicts the result and then performs decryption. In this system, neither the developer nor the model is aware of the authentic data.
 
+## Introduction
+
+According to studies, different countries like USA, Sweden, Japan, Singapore etc. People residing there, are willing to donate their data. The percentage of these people is about
+70-90 percent. But of course, they have some concerns about their data privacy. Due to the sensitive nature of data of any individual, it is vital to offer safety for his data. It
+can be misused if it comes in the wrong hands. Machine learning algorithms often require big datasets that could include personal, financial, or scientific information, which may be liable to assaults by hackers, cybercriminals, or different malicious actors. To conquer this hassle we use Homomorphic Encryption. This technique enables data to remain encrypted while performing computations on it. This is particularly useful for preserving privacy and security in scenarios where sensitive data needs to be processed by third parties.
+ 
 # Homomorphic Encryption
 
 Homomorphic encryption is a encryption technique that allows computation on encrypted data without decrypting it allowing data to be kept private and secure even while processing. The goal is to enable secure and private computation on sensitive data. There are three main types of homomorphic encryption:
