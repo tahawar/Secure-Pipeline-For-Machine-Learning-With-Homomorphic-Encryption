@@ -57,6 +57,22 @@ The main constraints of this projects are:
    
 There is a trade-off between security and performance which prioritizes security at the expense of performance. Certain algorithms may not be suitable with Homomorphic Encryption, and the processing of extensive data is a limitation when preserving privacy.
 
+# Tools Used
+
+1. TenSEAL
+2. Jupyter Notebook
+3. TensorFlow
+4. Python
+5. PyTorch
+
+### Dataset 1 (Employee Dataset)
+
+Collecting data sets was quite challenging because of the privacy issues of people. This dataset is about the employees in a company. We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/varungitboi/employee-salary-dataset){:target="_blank"}. The length of dataset is 1000 rows and 5 columns.
+
+### Dataset 2 (CHD Dataset)
+
+This dataset is about the people having coronary heart disease (CHD). We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression){:target="_blank"}. The length of dataset is 4238 rows and 16 columns.
+
 # Conclusion
 
 Between both approaches, it was concluded that TenSEAL was more preferable as it could complex computations efficiently and generated more reasonable results.
