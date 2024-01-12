@@ -50,9 +50,11 @@ FHE offers secure machine learning on encrypted data more efficiently. Furthermo
 # Constraints
 
 The main constraints of this projects are:
-• Performance
-• Algorithm compatibility
-• Data Preprocessing
+
+1. Performance
+2. Algorithm compatibility
+3. Data Preprocessing
+   
 There is a trade-off between security and performance which prioritizes security at the expense of performance. Certain algorithms may not be suitable with Homomorphic Encryption, and the processing of extensive data is a limitation when preserving privacy.
 
 # Conclusion
