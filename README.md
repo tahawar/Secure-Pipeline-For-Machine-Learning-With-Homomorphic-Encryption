@@ -47,6 +47,14 @@ TenSEAL is an open-source library that provides homomorphic encryption functiona
 
 FHE offers secure machine learning on encrypted data more efficiently. Furthermore, it provides end-to-end encryption ensuring more privacy. At last, both operations such as addition and multiplication can be applied. Hence, it can make complex computations as well.
 
+# Constraints
+
+The main constraints of this projects are:
+• Performance
+• Algorithm compatibility
+• Data Preprocessing
+There is a trade-off between security and performance which prioritizes security at the expense of performance. Certain algorithms may not be suitable with Homomorphic Encryption, and the processing of extensive data is a limitation when preserving privacy.
+
 # Conclusion
 
 Between both approaches, it was concluded that TenSEAL was more preferable as it could complex computations efficiently and generated more reasonable results.
