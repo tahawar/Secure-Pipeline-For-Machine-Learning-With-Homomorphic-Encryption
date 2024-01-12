@@ -67,11 +67,11 @@ There is a trade-off between security and performance which prioritizes security
 
 ### Dataset 1 (Employee Dataset)
 
-Collecting data sets was quite challenging because of the privacy issues of people. This dataset is about the employees in a company. We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/varungitboi/employee-salary-dataset){:target="_blank"}. The length of dataset is 1000 rows and 5 columns.
+Collecting data sets was quite challenging because of the privacy issues of people. This dataset is about the employees in a company. We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/varungitboi/employee-salary-dataset). The length of dataset is 1000 rows and 5 columns.
 
 ### Dataset 2 (CHD Dataset)
 
-This dataset is about the people having coronary heart disease (CHD). We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression){:target="_blank"}. The length of dataset is 4238 rows and 16 columns.
+This dataset is about the people having coronary heart disease (CHD). We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression). The length of dataset is 4238 rows and 16 columns.
 
 # Conclusion
 
