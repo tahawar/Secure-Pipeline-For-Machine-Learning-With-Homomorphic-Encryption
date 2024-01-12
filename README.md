@@ -69,9 +69,13 @@ There is a trade-off between security and performance which prioritizes security
 
 Collecting data sets was quite challenging because of the privacy issues of people. This dataset is about the employees in a company. We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/varungitboi/employee-salary-dataset). The length of dataset is 1000 rows and 5 columns.
 
+![D1](https://github.com/tahawar/Secure-Pipeline-For-Machine-Learning-With-Homomorphic-Encryption/blob/eb77c4ad9b9fe083081daa129ee5c0111a691f8e/D1.png)
+
 ### Dataset 2 (CHD Dataset)
 
 This dataset is about the people having coronary heart disease (CHD). We have downloaded the data set from [kaggle](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression). The length of dataset is 4238 rows and 16 columns.
+
+![D2](https://github.com/tahawar/Secure-Pipeline-For-Machine-Learning-With-Homomorphic-Encryption/blob/eb77c4ad9b9fe083081daa129ee5c0111a691f8e/D2.png)
 
 # Conclusion
 
