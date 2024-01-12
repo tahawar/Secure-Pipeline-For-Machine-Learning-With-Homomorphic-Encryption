@@ -16,7 +16,9 @@ Homomorphic encryption is a encryption technique that allows computation on encr
 2. Somewhat Homomorphic Encryption (SHE)
 3. Fully Homomorphic Encryption (FHE)
 
-We will be implementing Partially Homomorphic Encryption (PHE) as well as Fully Homomorphic Encryption (FHE) to conclude best of our results.
+We will be implementing Partially Homomorphic Encryption (PHE) as well as Fully Homomorphic Encryption (FHE) to conclude best of our results. Below is this working flow of our project:
+
+![WF](https://github.com/tahawar/Secure-Pipeline-For-Machine-Learning-With-Homomorphic-Encryption/blob/90e51e530c6a9d30874e58256568f49e42ae2f45/Working%20Flow.png)
 
 # Paillier Cryptosystem
 
