@@ -7,6 +7,13 @@ In this modern world of technology, a vast amount of personal data is required t
 According to studies, different countries like USA, Sweden, Japan, Singapore etc. People residing there, are willing to donate their data. The percentage of these people is about
 70-90 percent. But of course, they have some concerns about their data privacy. Due to the sensitive nature of data of any individual, it is vital to offer safety for his data. It
 can be misused if it comes in the wrong hands. Machine learning algorithms often require big datasets that could include personal, financial, or scientific information, which may be liable to assaults by hackers, cybercriminals, or different malicious actors. To conquer this hassle we use Homomorphic Encryption. This technique enables data to remain encrypted while performing computations on it. This is particularly useful for preserving privacy and security in scenarios where sensitive data needs to be processed by third parties.
+
+### Objectives
+
+1. Protecting sensitive data
+2. Enhancing privacy
+3. Improving security
+4. Enabling more data sharing
  
 # Homomorphic Encryption
 
