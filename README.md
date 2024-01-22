@@ -79,9 +79,9 @@ This dataset is about the people having coronary heart disease (CHD). We have do
 
 # Conclusion
 
-Between both approaches, it was concluded that TenSEAL was more preferable as it could complex computations efficiently and generated more reasonable results.
+Between both approaches, it was concluded that TenSEAL was more preferable as it could perfrom complex computations efficiently and generated more reasonable results.
 
 # Future Work
 
-We’ve created a pipeline with Homomorphic Encryption. In future work, it can be enhanced by incorporating Differential Privacy and Federated Learning to further prioritize data privacy and enable decentralized model training.
+We’ve created a secure machine learning pipeline with Homomorphic Encryption. In future work, it can be enhanced by incorporating Differential Privacy and Federated Learning to further prioritize data privacy and enable decentralized model training.
 
